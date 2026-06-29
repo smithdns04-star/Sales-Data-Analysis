@@ -30,3 +30,17 @@ Completed
 - Cisco Networking Academy
 - HP Data Analysis Virtual Experience
 - Deloitte Data Analytics Virtual Experience
+## Demo Link
+https://github.com/your-username/Sales-Data-Analysis
+
+## Table of Contents
+- Project Description
+- Business Understanding
+- Data Understanding
+- Technologies Used
+- Approach
+- Status
+- Credits
+
+## Screenshots of Results
+Screenshots of charts and outputs will be added here.
