@@ -26,7 +26,7 @@ The dataset contains sales information such as products, quantity, sales, profit
 ##  Status
 Completed
 
-## Credits
+##  Credits
 - Cisco Networking Academy
 - HP Data Analysis Virtual Experience
 - Deloitte Data Analytics Virtual Experience
