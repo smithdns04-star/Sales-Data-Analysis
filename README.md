@@ -32,7 +32,7 @@ Completed
 - Deloitte Data Analytics Virtual Experience
 
 ## Demo Link
-https://github.com/your-username/Sales-Data-Analysis
+https://github.com/smithdns04-star/Sales-Data-Analysis
 
 ## Table of Contents
 - Project Description
