@@ -43,5 +43,5 @@ https://github.com/your-username/Sales-Data-Analysis
 - Status
 - Credits
 
-## Screenshots of Results
+##  Screenshots of Results
 Screenshots of charts and outputs will be added here.
