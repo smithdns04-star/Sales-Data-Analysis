@@ -23,7 +23,7 @@ The dataset contains sales information such as products, quantity, sales, profit
 4. Create visualizations.
 5. Draw conclusions.
 
-## Status
+##  Status
 Completed
 
 ## Credits
